@@ -1,0 +1,24 @@
+{
+    "name": "soldatov/gettype",
+    "description": "Collection of types that the function gettype() returns.",
+    "keywords": [
+        "php",
+        "gettype"
+    ],
+    "type": "library",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Anatoly Soldatov",
+            "email": "soldatov.anatoly@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Soldatov\\GetType\\": "src"
+        }
+    },
+    "require": {
+        "php": "~5.3 || ~7.0"
+    }
+}
