@@ -1,4 +1,4 @@
-Class that contains options for the return data of the `getdata($var)` function.
+Class that contains options for the return data of the `gettype($var)` function.
 
 ```php
 class Types
